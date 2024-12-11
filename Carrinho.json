@@ -1,0 +1,34 @@
+[
+    {
+        "IdCarrinho": 1,
+        "IdLivro": 1,
+        "IdPedido": 1,
+        "Preco": 67.5,
+        "PrecoTotal": 135,
+        "Quantidade": 2
+    },
+    {
+        "IdCarrinho": 2,
+        "IdLivro": 2,
+        "IdPedido": 2,
+        "Preco": 78,
+        "PrecoTotal": 78,
+        "Quantidade": 1
+    },
+    {
+        "IdCarrinho": 3,
+        "IdLivro": 3,
+        "IdPedido": 3,
+        "Preco": 120,
+        "PrecoTotal": 360,
+        "Quantidade": 3
+    },
+    {
+        "IdCarrinho": 4,
+        "IdLivro": 4,
+        "IdPedido": 4,
+        "Preco": 53,
+        "PrecoTotal": 53,
+        "Quantidade": 1
+    }
+]
